@@ -18,6 +18,7 @@ fullstack-приложений с фронтендом на Vue.js
 
 | Проект | Технологии | Описание | Состояние |
 |---|---|---|---|
+| [order-info](https://github.com/chnmk/order-info-l0) | Go,  Kafka, PostgreSQL, Docker | Микросервис для обработки заказов, поступающих из Kafka. | Завершён |
 | [todo-list-final-task](https://github.com/chnmk/todo-list-final-task) | Go, SQLite3, Docker | Веб-сервер, реализующий функционал планировщика задач. | Завершён |
 | [file-scan-tool](https://github.com/chnmk/file-scan-tool) |  Go, [Zenity](github.com/ncruces/zenity) | CLI для сканирования файлов любых указанных расширений. | Рабочий |
 | [go-authorization-server](https://github.com/chnmk/go-authorization-server) |  Go, Swagger, JWT | Тренировочный проект для изучения работ с системами авторизации на JWT. | Рабочий |

@@ -18,7 +18,8 @@ fullstack-приложений с фронтендом на Vue.js
 
 | Проект | Технологии | Описание | Состояние |
 |---|---|---|---|
-| [order-info-l0](https://github.com/chnmk/order-info-l0) | Go,  Kafka, PostgreSQL, Docker | Микросервис для обработки заказов, поступающих из Kafka. | Завершён |
+| [order-info-l0](https://github.com/chnmk/order-info-l0) | Go,  Kafka, PostgreSQL, Docker | Сервис для обработки поступающей из Kafka информации о заказах в интернет-магазине. | Завершён |
+| [music-library-microservice](https://github.com/chnmk/music-library-microservice) | Go, PostgreSQL | Сервер для библиотеки музыки. Принимает CRUD-запросы, запрашивает тексты со стороннего API, делает копию данных в SQL. | Завершён |
 | [vuetify-staff-list](https://github.com/chnmk/vuetify-staff-list) | Vue.js, Pinia, Vuetify | Фронтенд для отображения информации о сотрудниках. По макету Figma. | Завершён |
 | [file-scan-tool](https://github.com/chnmk/file-scan-tool) |  Go, [Zenity](github.com/ncruces/zenity) | CLI для поиска файлов любых указанных расширений. | В работе |
 | [todo-list-final-task](https://github.com/chnmk/todo-list-final-task) | Go, SQLite3, Docker | Сервер, реализующий функционал планировщика задач. | Архив |

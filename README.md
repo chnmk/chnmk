@@ -11,9 +11,6 @@
 * Telegram: [@kchnm](https://t.me/kchnm)
 * Email: a2molchanov@ya.ru
 
-* Habr : [chnmk]
-* Codewars: [chnmk](https://www.codewars.com/users/chnmk)
-
 ### Примеры работ
 
 | Проект | Технологии | Описание | Состояние |
